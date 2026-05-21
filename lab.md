@@ -1,6 +1,7 @@
 ## Ambiente do Lab
 
 <img width="488" height="287" alt="adaptador1" src="https://github.com/user-attachments/assets/e45ceda5-a5e6-4abd-8351-aac427f6e990" />
+
 <img width="482" height="274" alt="adaptador 2" src="https://github.com/user-attachments/assets/f72c8a37-3632-4b04-bbe1-47fad627c9b1" />
 
 Para a execução de testes com payload baseado em Invoke-WebRequest , a máquina foi estruturada com duas placas de rede. 
