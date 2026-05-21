@@ -70,8 +70,15 @@ Para consolidar a investigação analisei o Hex Dump do pacote para mapear como 
 
 Como exemplo de correlação ao inspecionarmos o deslocamento dos bytes na linha 0020, conseguimos identificar o byte 02, que corresponde exatamento ao valor hexadecimal 0x002 da flag SYN que isolamos na análise de detalhes
 
-# IOC
-
+# IOCs
+## IOCs
+- Requisições SYN repetitivas
+- Reuso de portas TCP
+- Comunicação periódica
+- Tentativas contínuas de handshake
+- Host 192.168.56.10
+- Destino 192.168.56.20
+- Beacon interval de 10 segundos
 
 # Miticações
 
