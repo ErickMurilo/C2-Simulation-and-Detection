@@ -88,3 +88,11 @@ Como exemplo de correlação ao inspecionarmos o deslocamento dos bytes na linha
 - Monitoramento contínuo de tráfego TCP suspeito
 - Bloqueio de IPs/domínios suspeitos
 
+ ## Conclusão
+
+A análise do tráfego demonstrou características compatíveis com comportamento de beaconing associado à comunicação Command and Control (C2), incluindo conexões periódicas, reutilização de portas TCP, tentativas contínuas de handshake e padrões automatizados de comunicação.
+
+Durante a investigação, foi possível identificar indicadores relevantes como pacotes SYN sequenciais, respostas RST/ACK, intervalos fixos de conexão e assinaturas observadas através da análise detalhada do tráfego TCP e inspeção hexadecimal dos pacotes.
+
+O laboratório evidenciou como atividades suspeitas podem ser detectadas através da correlação entre comportamento de rede, análise de pacotes e identificação de IOC (Indicators of Compromise), reforçando a importância do monitoramento contínuo, segmentação de rede e mecanismos defensivos para identificação de possíveis comunicações C2 em ambientes monitorados.
+
