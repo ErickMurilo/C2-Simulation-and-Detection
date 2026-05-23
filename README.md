@@ -25,3 +25,12 @@ O laboratório foi estruturado utilizando rede segmentada entre máquina atacant
 
 ## Objetivo
 Demonstrar como comportamentos de beaconing e tentativas de comunicação C2 podem ser identificados através da análise detalhada da camada TCP.
+
+
+## Análise Detalhada de Tráfego
+
+O relatório completo contendo a análise de pacotes TCP, identificação de comportamento de beaconing, análise de conexões SYN/RST, inspeção hexadecimal e indicadores de comunicação Command and Control (C2) pode ser acessado no link abaixo:
+
+[Acesse o Relatório de Análise de Tráfego C2](c2-beaconing-analysis.md)
+
+[Clique aqui para baixar o arquivo de captura original (PCAPNG)](c2-traffic.pcapng)**
