@@ -33,4 +33,4 @@ O relatório completo contendo a análise de pacotes TCP, identificação de com
 
 [Acesse o Relatório de Análise de Tráfego C2](c2-beaconing-analysis.md)
 
-[Clique aqui para baixar o arquivo de captura original (PCAPNG)](c2-traffic.pcapng)**
+[Clique aqui para baixar o arquivo de captura original (PCAPNG)](c2-traffic.pcapng)
